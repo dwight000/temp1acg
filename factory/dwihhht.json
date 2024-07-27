@@ -1,0 +1,9 @@
+{
+	"name": "dwihhht",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60fa0570-a00a-4ef9-b35b-2aa9e9cd8761",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
