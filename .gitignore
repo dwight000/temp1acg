@@ -1,0 +1,6 @@
+# .NET install script
+dotnet-install.sh
+
+# .NET build outputs
+**/bin/
+**/obj/
