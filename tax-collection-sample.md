@@ -105,7 +105,7 @@
 
 | Category | Amount |
 |----------|--------|
-| **Total Income** | $85,237.00 |
+| **Total Income** | $85,238.00 |
 | **Total Deductions** | $25,730.00 |
 | **Total Credits** | $5,550.00+ |
 | **Federal Withholding** | $12,450.00 |
